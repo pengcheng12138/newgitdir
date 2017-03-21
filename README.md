@@ -1,2 +1,0 @@
-# gitdir
-test git
